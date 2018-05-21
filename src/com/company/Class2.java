@@ -7,4 +7,5 @@ import java.io.Console;
  */
 public class Class2 {
     //Console
+    int a1;
 }
